@@ -8,7 +8,7 @@ Link of the course: https://www.udemy.com/aspnet-core-angular
 
 ## Technologies
 
-Angular 4, .Net Core 2, Entity Framework core, Auth0, Automapper, sentry.io (centralized log), SQL Server (running locally)
+Angular 4, .Net Core 2, Entity Framework core, Auth0, JWT, Automapper, sentry.io (centralized log), SQL Server (running locally)
 
 ## PrintScreens
 
