@@ -2,7 +2,7 @@
 
 Angular 4 App + .net core 2.0 developed in the Udemy course "Build a Real-world App with ASP.NET Core and Angular 2 (4+)" - Instructor: Mosh Hamedani.
 
-It's a simple web app where the user log in using Auth0, search (pagination, ordering) and maintain data about vehicles (make, model, photos, contact).
+It's a simple web app where the user logs in using Auth0, search (pagination, ordering) and maintain data about vehicles (make, model, photos, contact).
 
 Link of the course: https://www.udemy.com/aspnet-core-angular
 
@@ -12,11 +12,11 @@ Angular 4, .Net Core 2, Entity Framework core, Auth0, Automapper, sentry.io (cen
 
 ## PrintScreens
 
-=> The user can consulting the vehicles list in the main page.
+=> The user consults the vehicles list in the main page.
 
 ![01](https://user-images.githubusercontent.com/20528688/40275372-2ca82f92-5bc4-11e8-9280-a2495d2bb848.png)
 
-=> The user can filter the vehicles by Make.
+=> The user filters the vehicles by Make.
 
 ![02](https://user-images.githubusercontent.com/20528688/40275373-2cc5a07c-5bc4-11e8-94a6-b74b033d8f16.png)
 
@@ -32,11 +32,11 @@ Angular 4, .Net Core 2, Entity Framework core, Auth0, Automapper, sentry.io (cen
 
 ![05](https://user-images.githubusercontent.com/20528688/40275376-2d2a58aa-5bc4-11e8-9ce6-774461c92e93.png)
 
-=> After log in, it's possible add new vehicles, edit or delete.
+=> After log in, it's possible adding new vehicles, editing or deleting.
 
 ![06](https://user-images.githubusercontent.com/20528688/40275377-2d4f98f4-5bc4-11e8-8e0d-dadaadaa1fbe.png)
 
-=> The user can add new vehicle.
+=> The user addes new vehicle.
 
 ![07](https://user-images.githubusercontent.com/20528688/40275378-2d96cf80-5bc4-11e8-9a43-c80e1046b68e.png)
 
